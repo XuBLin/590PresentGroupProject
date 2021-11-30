@@ -3,8 +3,9 @@ JamesGao JieqiaoLuo MoxiaoLiu XinruShi XuboLin
 
 
 ## Data
-* The dataset used should be downloaded from this link (342 MiB). 
-https://os.unil.cloud.switch.ch/fma/fma_metadata.zip
+* The dataset used should be downloaded from these links . 
+https://os.unil.cloud.switch.ch/fma/fma_metadata.zip   (342 MiB)
+https://os.unil.cloud.switch.ch/fma/fma_small.zip : 8,000 tracks of 30s, 8 balanced genres (GTZAN-like) (7.2 GiB)
 
 
 ## Citations
