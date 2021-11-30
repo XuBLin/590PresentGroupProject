@@ -3,7 +3,7 @@ JamesGao JieqiaoLuo MoxiaoLiu XinruShi XuboLin
 
 
 ## Data
-* The dataset used in genre_classification fold (evaluation.py , model.py , predictMusic.py ) should be download from this link (342 MiB). The fma_metadata and fma_small are used.
+* The dataset used should be downloaded from this link (342 MiB). 
 https://os.unil.cloud.switch.ch/fma/fma_metadata.zip
 
 
