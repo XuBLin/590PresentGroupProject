@@ -1,6 +1,15 @@
 # 590PresentGroupProject
 JamesGao JieqiaoLuo MoxiaoLiu XinruShi XuboLin
 
+
+## Data
+* The dataset used in genre_classification fold (evaluation.py , model.py , predictMusic.py ) should be download from this link
+
+https://os.unil.cloud.switch.ch/fma/fma_metadata.zip
+
+* We used the fma_metadata and fma_small from FMA dataset
+
+
 ## Citations
 1.Adiyansjaha, A. A S Gunawana, D.Suhartonoa, ”Music Recommender System Based on Genre using Convolutional Recurrent Neural Networks”. The 4th International Conference on Computer Science and Computational Intelligence (ICCSCI 2019)
 https://www.sciencedirect.com/science/article/pii/S1877050919310646
